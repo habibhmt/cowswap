@@ -74,3 +74,10 @@ CLAUDE.md
 # Github
 .github/
 /.npmrc
+
+# User custom files
+rules.md
+repomix.config.json
+commands.txt
+test-wallet.txt
+changes.txt
